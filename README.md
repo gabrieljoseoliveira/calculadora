@@ -1,3 +1,3 @@
 # Calculadora
 ## Página web com uma calculadora.
-### link: https://gjoliveira.github.io/calculadora/
+### Link: https://gjoliveira.github.io/calculadora/
